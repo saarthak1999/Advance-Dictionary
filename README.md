@@ -14,7 +14,7 @@ An example of the tries hierarchy is shown below:
 ![diagram](https://user-images.githubusercontent.com/68197328/126761523-d4784782-dd0b-43c4-9eea-2bdc9f3f01fa.png)
 
 
-## Functons of project are:</br>
+## Functons of project are:
 
 • Insert, search and delete words in the dictionary.
 
@@ -23,5 +23,6 @@ An example of the tries hierarchy is shown below:
 • Prefix searching i.e. all words with the entered prefix will be displayed.
 
 • Nearest neighbor search i.e. shows suggested words if the word you are looking for is not found and we can also use it as a spell checker.
+  
 
 
